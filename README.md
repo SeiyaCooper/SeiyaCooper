@@ -1,4 +1,4 @@
-<h3 align="center">Welcome to Seiya & Cooper's homepage. Just two friends performing our silly selves _(:з」∠)_</h3>
+<h3 align="center">Welcome to Seiya & Cooper's homepage!</h3>
 
 #### A simple data collection:
 
