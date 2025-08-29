@@ -5,8 +5,8 @@
 #### A simple data collection:
 
 <div>
-  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=SeiyaCooper&theme=transparent&layout=compact&hide_border=true&title_color=fe63a1&show_icons=true&icon_color=fe63a1"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeiyaCooper&layout=compact&theme=transparent&hide_border=true&title_color=fe63a1"/>
+  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=SeiyaCooper&theme=transparent&layout=compact&hide_border=true&title_color=f18eb6&show_icons=true&icon_color=f18eb6&text_color=ed98d0"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeiyaCooper&layout=compact&theme=transparent&hide_border=true&title_color=f18eb6&text_color=ed98d0"/>
 </div>
 
 #### Visitor count:
